@@ -3,6 +3,10 @@ languageCode = "es-es"
 title = "Tu Blog"
 theme = "PaperMod"
 
+canonifyURLs = false
+relativeURLs = false
+
+
 [params]
   ShowReadingTime = true
   ShowToc = true
@@ -21,4 +25,5 @@ theme = "PaperMod"
     name = "About"
     url = "/about/"
     weight = 30
+
 
